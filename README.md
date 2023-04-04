@@ -42,7 +42,7 @@
 
 `make package/airsaned/compile V=s -j5` <br/> где j5 это 4 ядра, соответственно если у вас 2 ядра -пишем j3 итд.
 
-Собирается все относительно быстро и без ошибок, пакеты лежат по пути `/openwrt-sdk-19.07.8-brcm47xx-legacy_gcc-7.5.0_musl.Linux-x86_64/bin/packages/mipsel_mips32/airsaned` это примерный путь версии могут быть  другие, вместо mipsel_mips32 может быть тоже что-то другое.
+Собирается все относительно быстро и без ошибок, пакеты лежат по пути `/openwrt-sdk-19.07.8-brcm47xx-legacy_gcc-7.5.0_musl.Linux-x86_64/bin/packages/mipsel_mips32/airsaned` это примерный путь, версии могут быть другие, вместо mipsel_mips32 может быть тоже что-то другое.
 
 В проводнике Windows 10 есть пингвин и там все наши файлы, а копировать на сам роутер можно через [WinSCP](https://winscp.net/eng/download.php).
 
