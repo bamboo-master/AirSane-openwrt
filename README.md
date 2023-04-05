@@ -59,10 +59,8 @@
 Через браузер сканирует нормально `IP_Роутера:8090` 
 
 Windows теперь находит ваш сканер, предлгает скачать сканер от windows, тут важно чтобы microsoft store был на [месте](https://4pda.to/forum/index.php?showtopic=926185). Проверял на Windows 10/11, древний сканер Mustek600CU все отлично работает.
-Android PrintHand не видит, расхваленый ими Mopria Scan тоже нет. MacOS, iOS, Linux не проверял. 
+Android PrintHand не видит, расхваленый ими Mopria Scan тоже не видит, но можно добавить вручную ip адрес и порт 8090, с таким же успехом можно использовать sanedroid. MacOS, iOS, Linux не проверял. 
 
 Если у вас старая Windows (8.1/8/7/Vista/XP)  установите [sanetwain](https://sanetwain.ozuzo.net/downloads/setup137.exe) в связке с [naps2](https://www.naps2.com/download) </br> Либо сканируйте через браузер, никакой eSCL работать не будет.
-
-Для телефона работает только [sanedroid](https://play.google.com/store/apps/details?id=com.sane.droid), хотя ему никакой eSCL и не нужен, установить на новый android не просто, apk придется вытягивать через сторонние [сервисы](https://apkcombo.com), т.к. google play пишет что он сделан для старой версии android, что не мешает ему работать.  
 
 Некоторые пакеты выложу [тут](https://github.com/bamboo-master/AirSane-openwrt/tree/master/packages).
