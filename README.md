@@ -58,7 +58,7 @@
 
 Через браузер сканирует нормально `IP_Роутера:8090` 
 
-В Windows 11 eSCL должен работать по умолчанию, нужно только установить сканер от Microsoft
+В Windows 11 eSCL должен работать по умолчанию, нужно только установить сканер от Microsoft.</br>
 Если у вас старая Windows установите [naps2](https://www.naps2.com/download) у нее таке заявлена поддежка eSCL, Либо сканируйте через браузер http://IP_Роутера:8090.
 
 Некоторые пакеты выложу [тут](https://github.com/bamboo-master/AirSane-openwrt/tree/master/packages).
